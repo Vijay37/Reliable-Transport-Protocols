@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cse489589_assignment2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cse489589_assignment2">
+				<Option output="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/cse489589_assignment2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 cse489589_assignment2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cse489589_assignment2/fast">
+				<Option output="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/cse489589_assignment2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 cse489589_assignment2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/grader/advanced_tests">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/grader/basic_tests">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/grader/run_experiments">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/grader/sanity_tests">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/vijayaha/include/simulator.h">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/vijayaha/src/abt.cpp">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/vijayaha/src/gbn.cpp">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/vijayaha/src/simulator.cpp">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/vijayaha/src/sr.cpp">
+			<Option target="cse489589_assignment2"/>
+		</Unit>
+		<Unit filename="/Users/vijayaharshavardhanpalla/Desktop/cse489589_assignment2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
